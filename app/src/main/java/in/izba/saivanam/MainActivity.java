@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         //Saivanam project application with google maps
     }
+
+    public void add(){
+        int i = 1+1;
+    }
 }
